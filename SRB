@@ -1,0 +1,1 @@
+SRBMiner-MULTI.exe --algorithm randomx --pool rx.unmineable.com:3333 --wallet SOL:BniXHiYKyoesgqggaM3iMfE56YvtDDxrUAw7gNA6d3fE.Miner1 --cpu-threads 4
